@@ -1784,6 +1784,7 @@ defineExpose({
 	width: 28px;
 	height: 28px;
 	margin: auto 0;
+	object-fit: cover;
 	border-radius: 100%;
 
 	&.square {
