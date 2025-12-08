@@ -476,6 +476,7 @@ definePage(() => ({
 }
 
 .pageContent {
+	contain: content;
 	margin-bottom: 1.5rem;
 }
 
