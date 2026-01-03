@@ -483,7 +483,7 @@ export const store = markRaw(new Pizzax('base', {
 	},
 	setFederationAvatarShape: {
 		where: 'account',
-		default: true,
+		default: false,
 	},
 	filesGridLayoutInUserPage: {
 		where: 'device',
